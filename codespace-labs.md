@@ -1,7 +1,7 @@
 # Copilot Deep Dive
 ## An introduction to GitHub Copilot
 ## Session labs for codespace only
-## Revision 4.5 - 07/16/24
+## Revision 5.0 - 11/02/24
 
 **Versions of dialogs, buttons, etc. shown in screenshots may differ from current version of Copilot**
 
